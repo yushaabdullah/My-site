@@ -51,10 +51,7 @@ h3
     
 }
 
-.dp
-{
-    width: 150px;
-}
+
 
 .geek
 {
@@ -81,4 +78,19 @@ h3
     bottom: 100px;
     width: 75px;
     height: 75px;
+}
+
+.dp
+{
+    width: 150px;
+}
+
+.developer 
+{
+    width: 300px;
+}
+
+.photography
+{
+    width: 170px;
 }
